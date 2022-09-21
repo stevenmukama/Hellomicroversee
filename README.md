@@ -13,7 +13,6 @@
 
 
 
-
 ## Getting Started
 
 To get a local copy up and run git clone git clone https://github.com/stevenmukama/Hellomicroversee.git and follow these simple steps
@@ -23,12 +22,10 @@ To get a local copy up and run git clone git clone https://github.com/stevenmuka
 ### Run the index.html file on any browser
 
 
-## Authors
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@stevenmukama](https://github.com/stevenmukama)
+- Twitter: [@mukama_steven](https://twitter.com/mukama_steven)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
